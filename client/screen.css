@@ -1387,10 +1387,6 @@ input[type="range"]:hover {
     z-index: 402;
 }
 
-#bottom {
-    z-index: 500;
-}
-
 #crown {
     z-index: 600;
 }
@@ -1401,6 +1397,10 @@ input[type="range"]:hover {
 
 #cursors .cursor {
     z-index: 800;
+}
+
+#bottom {
+    z-index: 850;
 }
 
 #chat.chatting {
