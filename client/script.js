@@ -1898,9 +1898,6 @@ $(function() {
 
       document.body.style.setProperty("--color", color1.toHexa());
       document.body.style.setProperty("--color2", color2.toHexa());
-
-      bottom.style.setProperty("--color", color1.toHexa());
-      bottom.style.setProperty("--color2", color2.toHexa());
     }
 
     function setColorToDefault() {
